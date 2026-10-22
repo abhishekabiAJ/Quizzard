@@ -12,7 +12,7 @@ function Topbar() {
   return (
     <header className="topbar">
       <div className="brand">
-        <span className="logo">T</span>For my kunjmani
+        <span className="logo">T</span>Rev Mate
       </div>
     </header>
   );
