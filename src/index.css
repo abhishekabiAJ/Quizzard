@@ -5,7 +5,7 @@
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
-body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.55 system-ui, -apple-system, 'Segoe UI', sans-serif; text-align:left; }
+body { text-transform: capitalize; margin:0; background:var(--bg); color:var(--ink); font:15px/1.55 system-ui, -apple-system, 'Segoe UI', sans-serif; text-align:left; }
 h1,h2,h3,p { margin:0; }
 h2 { font-size:1.05rem; font-weight:650; }
 
