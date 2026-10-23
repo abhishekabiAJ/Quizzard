@@ -12,7 +12,7 @@ function Topbar() {
   return (
     <header className="topbar">
       <div className="brand">
-        <span className="logo">T</span>RevMate
+        <span className="logo">Q</span>Quizzard
       </div>
     </header>
   );
